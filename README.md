@@ -250,7 +250,10 @@ After the execution, you will find evaluation results under "save_{turn_num}/res
 
 [CRSLab](https://github.com/RUCAIBox/CRSLab) will support this interactive evaluation approach, the results in our paper will be updated soon.
 
-
+## ☎️ Contact
+                      
+If you have any questions for our paper or codes, please send an email to txy20010310@163.com.
+                      
 ## 🐦 Citing
 
 Please cite the following paper if you find our code helpful.
