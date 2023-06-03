@@ -1,0 +1,394 @@
+{
+  "movieMentions": {
+    "204334": "Happy Death Day  (2017)",
+    "125431": "Annabelle  (2014)",
+    "118338": "The Forest  (2016)",
+    "205430": "A Quiet Place (2018)",
+    "132562": "The Last House on the Left  (1972)",
+    "157765": "The Heat  (2013)",
+    "111776": "Super Troopers (2001)",
+    "187061": "Identity Thief (2013)",
+    "175203": "Hot Tub Time Machine",
+    "77161": "A Nightmare on Elm Street (1984)"
+  },
+  "respondentQuestions": {
+    "204334": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "125431": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    },
+    "118338": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    },
+    "205430": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "132562": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    },
+    "187061": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "111776": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "157765": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "175203": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "77161": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    }
+  },
+  "messages": [
+    {
+      "senderWorkerId": 958,
+      "text": "Hello!",
+      "turn_id": 0,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "Hello!",
+      "word": []
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "Hello!",
+      "turn_id": 1,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "Hello!",
+      "word": []
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "What kind of movies do you like?",
+      "turn_id": 2,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "What kind of movies do you like?",
+      "word": [
+        "movies"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "I am looking for a movie recommendation. When I was younger I really enjoyed the @77161",
+      "turn_id": 3,
+      "entity": [],
+      "item": [
+        "A Nightmare on Elm Street (1984)"
+      ],
+      "thread": [
+        "A Nightmare on Elm Street (1984)"
+      ],
+      "masked_text": "I am looking for a movie recommendation. When I was younger I really enjoyed the <item>",
+      "word": [
+        "movie",
+        "recommendation",
+        "enjoyed"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "Oh, you like scary movies? I recently watched @204334",
+      "turn_id": 4,
+      "entity": [
+        "scary"
+      ],
+      "item": [
+        "Happy Death Day (2017)"
+      ],
+      "thread": [
+        "scary",
+        "Happy Death Day (2017)"
+      ],
+      "masked_text": "Oh, you like <genre> movies? I recently watched <item>",
+      "word": [
+        "scary",
+        "movies",
+        "watched"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "I also enjoyed watching @132562",
+      "turn_id": 5,
+      "entity": [],
+      "item": [
+        "The Last House on the Left (1972)"
+      ],
+      "thread": [
+        "The Last House on the Left (1972)"
+      ],
+      "masked_text": "I also enjoyed watching <item>",
+      "word": [
+        "enjoyed",
+        "watching"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "It was really good for a new \"scary movie\"",
+      "turn_id": 6,
+      "entity": [
+        "scary"
+      ],
+      "item": [],
+      "thread": [
+        "scary"
+      ],
+      "masked_text": "It was really good for a new \"<genre> movie\"",
+      "word": [
+        "scary",
+        "movie"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "I do enjoy some of the newer horror movies that I have seen as well.",
+      "turn_id": 7,
+      "entity": [
+        "horror"
+      ],
+      "item": [],
+      "thread": [
+        "horror"
+      ],
+      "masked_text": "I do enjoy some of the newer <genre> movies that I have seen as well.",
+      "word": [
+        "enjoy",
+        "horror",
+        "movies"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "I heard that @205430 is good. It is still in theaters though.",
+      "turn_id": 8,
+      "entity": [],
+      "item": [
+        "A Quiet Place (2018)"
+      ],
+      "thread": [
+        "A Quiet Place (2018)"
+      ],
+      "masked_text": "I heard that <item> is good. It is still in theaters though.",
+      "word": [
+        "heard",
+        "theaters"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "I really liked the movie @125431",
+      "turn_id": 9,
+      "entity": [],
+      "item": [
+        "Annabelle (2014)"
+      ],
+      "thread": [
+        "Annabelle (2014)"
+      ],
+      "masked_text": "I really liked the movie <item>",
+      "word": [
+        "movie"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "Me, too! It was really creepy, but I thought it was good!",
+      "turn_id": 10,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "Me, too! It was really creepy, but I thought it was good!",
+      "word": [
+        "creepy"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "Or @118338 I saw while in theaters, this was a very good movie. It had me on the edge of my seat for the whole show.",
+      "turn_id": 11,
+      "entity": [
+        "The Who"
+      ],
+      "item": [
+        "The Forest (2016)"
+      ],
+      "thread": [
+        "The Forest (2016)",
+        "The Who"
+      ],
+      "masked_text": "Or <item> I saw while in theaters, this was a very good movie. It had me on the edge of my seat for <person>le show.",
+      "word": [
+        "theaters",
+        "movie",
+        "edge",
+        "seat"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "I'm not sure if I saw that one, I'll have to check into it. Sounds familiar, but not sure. Thank you for your suggestions!",
+      "turn_id": 12,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "I'm not sure if I saw that one, I'll have to check into it. Sounds familiar, but not sure. Thank you for your suggestions!",
+      "word": [
+        "check",
+        "familiar",
+        "suggestions"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "Are there any comedies that you would suggest?",
+      "turn_id": 13,
+      "entity": [
+        "comedy"
+      ],
+      "item": [],
+      "thread": [
+        "comedy"
+      ],
+      "masked_text": "Are there any <genre> that you would suggest?",
+      "word": [
+        "comedies"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "Sure! I like comedies a lot. I like movies like @175203 and @111776 , but I also like @187061 and @157765 .",
+      "turn_id": 14,
+      "entity": [
+        "comedy"
+      ],
+      "item": [
+        "Hot Tub Time Machine",
+        "Super Troopers (2001)",
+        "Identity Thief (2013)",
+        "The Heat (2013)"
+      ],
+      "thread": [
+        "comedy",
+        "Hot Tub Time Machine",
+        "Super Troopers (2001)",
+        "Identity Thief (2013)",
+        "The Heat (2013)"
+      ],
+      "masked_text": "Sure! I like <genre> a lot. I like movies like <item> and <item> , but I also like <item> and <item> .",
+      "word": [
+        "comedies",
+        "lot",
+        "movies"
+      ]
+    },
+    {
+      "senderWorkerId": 959,
+      "text": "Wonderful! Thank you so much I think I am ready for movie night now.",
+      "turn_id": 15,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "Wonderful! Thank you so much I think I am ready for movie night now.",
+      "word": [
+        "ready",
+        "movie",
+        "night"
+      ]
+    },
+    {
+      "senderWorkerId": 958,
+      "text": "No problem! Thank you, too! :)",
+      "turn_id": 16,
+      "entity": [],
+      "item": [],
+      "thread": [],
+      "masked_text": "No problem! Thank you, too! :)",
+      "word": []
+    }
+  ],
+  "conversationId": "20041",
+  "respondentWorkerId": 958,
+  "initiatorWorkerId": 959,
+  "initiatorQuestions": {
+    "204334": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "125431": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    },
+    "118338": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    },
+    "205430": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "132562": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    },
+    "187061": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "111776": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "157765": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "175203": {
+      "suggested": 1,
+      "seen": 2,
+      "liked": 2
+    },
+    "77161": {
+      "suggested": 0,
+      "seen": 1,
+      "liked": 1
+    }
+  }
+}

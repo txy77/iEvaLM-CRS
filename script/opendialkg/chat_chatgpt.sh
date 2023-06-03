@@ -1,0 +1,1 @@
+python chat.py --api_key your_api_key --kg_dataset opendialkg --crs_model chatgpt --dataset opendialkg_eval
