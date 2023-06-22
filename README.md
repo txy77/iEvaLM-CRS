@@ -247,22 +247,3 @@ After the execution, you will find evaluation results under "save_{turn_num}/res
   </tr>
   </tbody>
 </table>
-
-[CRSLab](https://github.com/RUCAIBox/CRSLab) will support this interactive evaluation approach, the results in our paper will be updated soon.
-
-## 📮 Contact
-                      
-If you have any questions for our paper or codes, please send an email to txy20010310@163.com.
-                      
-## 🐦 Citing
-
-Please cite the following paper if you find our code helpful.
-
-```bibtex
-@article{wang2023rethinking,
-  title={Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models},
-  author={Wang, Xiaolei and Tang, Xinyu and Zhao, Wayne Xin and Wang, Jingyuan and Wen, Ji-Rong},
-  journal={arXiv preprint arXiv:2305.13112},
-  year={2023}
-}
-```
