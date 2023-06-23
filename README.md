@@ -28,7 +28,7 @@ we propose an **i**nteractive **Eval**uation approach based on **LLM**s named **
 
 ### Download Models
 
-You can download our fine-tuned models from the [link](https://drive.google.com/drive/folders/1h2AcRn3cd9qXToM9hFAXFV5evXJM-wyD?usp=sharing), which include recommendation and conversation models of **KBRD**, **BARCOR** and **UniCRS**. Please put the downloaded model into src/utils/model directory.
+You can download our fine-tuned models from the [link](https://drive.google.com/file/d/1XT6L6H7y2PyvAUf4JLx_tbo2nWz800XH/view?usp=sharing), which include recommendation and conversation models of **KBRD**, **BARCOR** and **UniCRS**. Please put the downloaded model into src/utils/model directory.
 
 ### Interact with the user simulator
 
