@@ -62,7 +62,7 @@ You can customize your iEvaLM-CRS by specifying these configs:
 After the execution, you will find evaluation results under "save_{turn_num}/result/{mode}/{model}/{dataset}.json".
 
 
-## 🌟 Perfermance
+## 🌟 Performance
 <p align="center">Performance of CRSs and ChatGPT using different evaluation approaches.</p>
 <table border="1" align="center">
   <tbody >
