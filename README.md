@@ -1,6 +1,6 @@
 # Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models
 
-This repo provides the source code & data of our paper: [Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models](https://arxiv.org/abs/2305.13112) (Arxiv 2023).
+This repo provides the source code & data of our paper: Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models.
 
 ## 😀 Overview
 
