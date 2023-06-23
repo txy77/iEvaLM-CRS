@@ -7,7 +7,7 @@ This repo provides the source code & data of our paper: Rethinking the Evaluatio
 **Highlights**:
 - 1️⃣ We are the first to examine ChatGPT in conversational recommendation systematically, the ability of which is **underestimated** in traditional evaluation approach.
 - 💡 We propose a new interactive approach that employs LLM-based user simulators for evaluating CRSs.
-- 🔝 The performance of chatgpt can be boosted on the redial dataset with our new interactive evaluation approach, even surpassing the currently leading CRS baseline.
+- 🔝 The performance of chatgpt can be boosted with our new interactive evaluation approach, even surpassing the currently leading CRS baseline.
 
 we propose an **i**nteractive **Eval**uation approach based on **LLM**s named **iEvaLM** that harnesses LLM-based user simulators. We take the ground-truth items from the example as the user preference through the interaction, and use them to set up the persona of the simulated users by LLMs through instructions. To further make a comprehensive evaluation, we consider two types of interaction: *attribute-based question answering* and *free-form chit-chat*.
 
