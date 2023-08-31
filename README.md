@@ -48,6 +48,10 @@ You can customize your iEvaLM-CRS by specifying these configs:
 
 After the execution, you will find detailed interaction information under "save_{turn_num}/{mode}/{model}/{dataset}/".
 
+### Download intermediate results.
+
+You can download the intermediate results from this [link](https://drive.google.com/drive/folders/1zXMaU5AVFEViZVcYNkE9K9pUgyitcMOz?usp=sharing)
+
 ### Evaluate
 
 ```bash
