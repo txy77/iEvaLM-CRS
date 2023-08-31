@@ -50,7 +50,7 @@ After the execution, you will find detailed interaction information under "save_
 
 ### Download intermediate results.
 
-You can download the intermediate results from this [link](https://drive.google.com/drive/folders/1zXMaU5AVFEViZVcYNkE9K9pUgyitcMOz?usp=sharing)
+You can download the intermediate results from this [link](https://drive.google.com/drive/folders/1zXMaU5AVFEViZVcYNkE9K9pUgyitcMOz?usp=sharing).
 
 ### Evaluate
 
