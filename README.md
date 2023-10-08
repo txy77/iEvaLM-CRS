@@ -115,7 +115,7 @@ After the execution, you will find evaluation results under "save_{turn_num}/res
     <td>0.215</td>
     <td>0.238</td>
     <td>0.317</td>
-    <td>0.130</td>
+    <td>0.174</td>
     <td><b>0.536</b></td>
     <td>0.440</td>
   </tr>
@@ -130,9 +130,9 @@ After the execution, you will find evaluation results under "save_{turn_num}/res
     <td>0.413</td>
     <td>0.520</td>
     <td>0.602</td>
-    <td>0.218</td>
-    <td><b>0.739</b></td>
-    <td>0.705</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td rowspan="3">OpenDialKG</td>
@@ -176,9 +176,9 @@ After the execution, you will find evaluation results under "save_{turn_num}/res
     <td>0.574</td>
     <td>0.458</td>
     <td>0.609</td>
-    <td>0.607</td>
-    <td>0.708</td>
-    <td><b>0.825</b></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   </tbody>
 
